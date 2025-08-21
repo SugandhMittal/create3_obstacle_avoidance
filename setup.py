@@ -16,7 +16,7 @@ setup(
     maintainer='Sugandh Mittal',
     maintainer_email='sugandhka2k@gmail.com',
     description='This node prevents the Create3 from any obstacle big or small',
-    license='BSD',
+    license='MIT',
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
