@@ -5,7 +5,7 @@
   <version>0.0.0</version>
   <description>This node prevents the Create3 to run into any obtacle small or large</description>
   <maintainer email="sugandhka2k@gmail.com">Sugandh Mittal</maintainer>
-  <license>BSD</license>
+  <license>MIT</license>
 
   <depend>rclpy</depend>
   <depend>std_msgs</depend>
